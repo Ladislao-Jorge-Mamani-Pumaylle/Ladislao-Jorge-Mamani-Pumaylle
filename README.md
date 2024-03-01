@@ -1,6 +1,6 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ladislao J. Mamani Pumaylle </h1>
-<h3 align="center">Estudiante de Big Data y Ciencia de Datos</h3>
+<h3 align="center">Análisis de Datos, Big Data y Ciencia de Datos</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ladislao-jorge-mamani-pumaylle-b8b100228" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
 <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <em>
-  Hola soy Ladislao Jorge Mamani Pumaylle a <b>final year</b> estudiante del último año <a href="https://uom.lk/"> <b>de la carrera de </b>, Big Data y Ciencia de Datos</a>. <br>
+  Hola soy Ladislao Jorge Mamani Pumaylle, estudiante del último año <a href="https://uom.lk/"> <b>de la carrera de Big Data y Ciencia de Datos</a>.
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
