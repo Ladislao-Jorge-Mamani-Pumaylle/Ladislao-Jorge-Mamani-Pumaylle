@@ -20,7 +20,7 @@
 
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">&nbsp;***Mis herramientas de trabajo...***
 <p align="left">
-   <code> <img height="50" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fcf%2FNew_Power_BI_Logo.svg%2F2048px-New_Power_BI_Logo.svg.png&tbnid=tgEAXoKEK6IeeM&vet=12ahUKEwjroaDflNSEAxU8M7kGHRdRAkIQMygAegQIARBQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&docid=fElY9UANHz96jM&w=2048&h=2048&q=power%20bi%20logo%20png&hl=es&ved=2ahUKEwjroaDflNSEAxU8M7kGHRdRAkIQMygAegQIARBQ"> </code>
+<code> <img height="50" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogohistory.net%2Fwp-content%2Fuploads%2F2023%2F05%2FPower-BI-Symbol.png&tbnid=6gYqBbTG0IylSM&vet=12ahUKEwjroaDflNSEAxU8M7kGHRdRAkIQMygEegQIARBY..i&imgrefurl=https%3A%2F%2Flogohistory.net%2Fpower-bi-logo%2F&docid=WlTkgo25QspwpM&w=3840&h=2160&q=power%20bi%20logo%20png&hl=es&ved=2ahUKEwjroaDflNSEAxU8M7kGHRdRAkIQMygEegQIARBY.svg"> </code>
    <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
