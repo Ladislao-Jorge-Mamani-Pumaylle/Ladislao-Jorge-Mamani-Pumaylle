@@ -1,6 +1,6 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ladislao J. Mamani Pumaylle </h1>
-<h3 align="center">Estudiante de BIG DATA Y CIENCIA DE DATOS | Data Scientist </h3>
+<h3 align="center">Estudiante de Big Data y Ciencia de Datos</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ladislao-jorge-mamani-pumaylle-b8b100228" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
 <a href="https://www.instagram.com/ovindu_vesuvius/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
