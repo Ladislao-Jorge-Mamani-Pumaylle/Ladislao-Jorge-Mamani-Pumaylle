@@ -8,9 +8,6 @@
  <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
-
-
-
 <p align="center">
   <em>
     Hello, I am Ovindu Wijethunge a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
@@ -31,12 +28,9 @@
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
- 
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
-  
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
+    <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
