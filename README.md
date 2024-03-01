@@ -20,7 +20,7 @@
 
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">&nbsp;***Mis herramientas de trabajo...***
 <p align="left">
-   <code> <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&psig=AOvVaw16-hWLoyufGfE4CFN_0k3v&ust=1709419870224000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOC_57eT1IQDFQAAAAAdAAAAABAD"> </code>
+   <code> <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg"> </code>
    <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
