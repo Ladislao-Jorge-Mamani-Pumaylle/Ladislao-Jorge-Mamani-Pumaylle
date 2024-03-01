@@ -20,7 +20,8 @@
 
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">&nbsp;***Mis herramientas de trabajo...***
 <p align="left">
-    <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"> </code>
+   <code> <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseekvectorlogo.com%2Fpower-bi-vector-logo-svg%2F&psig=AOvVaw28bNw3y3sJaAvAhZk3BZp2&ust=1709419756529000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIj44YOT1IQDFQAAAAAdAAAAABAD"> </code>
+   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
