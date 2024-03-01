@@ -2,8 +2,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ladislao J. Mamani Pumaylle </h1>
 <h3 align="center">Análisis de Datos, Big Data y Ciencia de Datos</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ladislao-jorge-mamani-pumaylle-b8b100228" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ladislao-jorge-mamani-pumaylle-b8b100228" target="blank"><img align="center" src="[https://image.flaticon.com/icons/png/128/174/174857.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes-la.facebook.com%2FLinkedIn%2Fevents%2F&psig=AOvVaw2bq_5nRIEfqmdaGaLPfCOz&ust=1709420459095000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjzwM6V1IQDFQAAAAAdAAAAABAD)" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href = "mailto: ladislaojmp@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
 <p align="center">
