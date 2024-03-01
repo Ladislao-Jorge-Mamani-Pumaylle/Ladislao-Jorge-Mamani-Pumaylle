@@ -20,9 +20,9 @@
 
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">&nbsp;***Mis herramientas de trabajo...***
 <p align="left"> 
-   <code> <img height="50" src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png"> </code>
+   <code> <img height="50" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png"> </code>
     <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"> </code>
-     <code> <img height="50" src="https://amador.edu.do/wp-content/uploads/2020/11/rstudio.png"> </code>
+     <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/fr/4/4e/RStudio_Logo.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
