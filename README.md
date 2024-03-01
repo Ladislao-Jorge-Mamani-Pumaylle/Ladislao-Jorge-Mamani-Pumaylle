@@ -20,8 +20,8 @@
 
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">&nbsp;***Mis herramientas de trabajo...***
 <p align="left"> 
-   <code> <img height="60" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png"> </code>
-    <code> <img height="50" src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png"> </code>
+   <code> <img height="65" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png"> </code>
+    <code> <img height="65" src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png"> </code>
      <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/fr/4/4e/RStudio_Logo.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
