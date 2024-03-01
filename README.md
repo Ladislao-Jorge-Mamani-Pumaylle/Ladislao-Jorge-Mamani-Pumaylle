@@ -10,8 +10,8 @@
   <em>
   Hola soy Ladislao Jorge Mamani Pumaylle, estudiante del último año de la carrera de Big Data y Ciencia de Datos.
     </em> 
-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Acerca de mi ....***
+
 ✔ Llamameme: ***Ladislao*** 😊 <br>
 ✔ Actualmente estoy en busca de realizar mis prácticas y dar todo de mi**<br>
 ✔ Estoy buscando colaborar con cualquier proyecto de **Análisis de Datos / Ciencia de Datos**<br>
