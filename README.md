@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ladislao J. Mamani Pumaylle </h1>
 <h3 align="center">Análisis de Datos, Big Data y Ciencia de Datos</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ladislao-jorge-mamani-pumaylle-b8b100228" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" alt="lin_Ladislao" height="45" width="40" /></a>  
+<a href="https://www.linkedin.com/in/ladislao-jorge-mamani-pumaylle-b8b100228" target="blank"><img align="center" src="https://c0.klipartz.com/pngpicture/524/809/gratis-png-iconos-de-computadora-curriculum-linkedin-logo-job-hunting-thumbnail.png" alt="lin_Ladislao" height="45" width="40" /></a>  
 <a href = "mailto: ladislaojmp@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
