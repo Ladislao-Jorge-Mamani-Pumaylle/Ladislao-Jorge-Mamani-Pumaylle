@@ -6,7 +6,7 @@
 <a href = "mailto: ladislaojmp@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="30" /></a>
 </p>
 </p>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Acerca de mi ....***
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Acerca de mi ....***
 
 ✔ Llamameme: ***Ladislao*** 😊 <br>
 ✔ Actualmente estoy en busca de realizar mis prácticas y dar todo de mi**<br>
