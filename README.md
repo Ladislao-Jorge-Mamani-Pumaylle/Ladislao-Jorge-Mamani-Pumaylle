@@ -9,8 +9,7 @@
 <p align="center">
   <em>
   Hola soy Ladislao Jorge Mamani Pumaylle, estudiante del último año de la carrera de Big Data y Ciencia de Datos.
-     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+    <br>and always looking to find patterns of which are hidden in the data 
   </em> 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
