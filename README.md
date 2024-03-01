@@ -9,15 +9,12 @@
 <p align="center">
   <em>
   Hola soy Ladislao Jorge Mamani Pumaylle, estudiante del último año de la carrera de Big Data y Ciencia de Datos.
-    <br>Encontrar patrones oculto en los datos.
-  </em> 
+    </em> 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***acerca de mi ....***
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Acerca de mi ....***
 ✔ Llamameme: ***Ladislao*** 😊 <br>
 ✔ Actualmente estoy en busca de realizar mis prácticas y dar todo de mi**<br>
-✔ Actualmente estoy aprendiendo sobre **Deep learning**🥰<br>
-✔ Estoy buscando colaborar con cualquier proyecto de **Ana´lisis de Datos / Ciencia de Datos**<br>
+✔ Estoy buscando colaborar con cualquier proyecto de **Análisis de Datos / Ciencia de Datos**<br>
 ✔ Dato curioso : *Siempre trato de aprender algo nuevo cada día* 😎<br><br><br><br>
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
